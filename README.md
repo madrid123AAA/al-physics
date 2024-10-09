@@ -1,1 +1,1 @@
-# al-physics/github.id
+# al-physics.github.id
